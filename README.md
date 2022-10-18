@@ -15,6 +15,6 @@ Dictionary: PNG file that contains metadata about the data
 
 2 CSV files: 1 from the original datasource, and 1 modified using python.
 
-Python file: Needs a jupiter notebook app or Visual Code Studio to open.
+Python file: Can be visualized on GitHub or opened in a JupiterNotebook/VisualCodeStudio
 
 DOCS File: A analyst view from the results.
