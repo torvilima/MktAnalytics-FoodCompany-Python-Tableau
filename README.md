@@ -3,7 +3,7 @@ Data Analysis process using python for data exploration and Tableau for a quick 
 
 This project uses a free data source found on Kaggle:
 
-https://www.kaggle.com/datasets/jackdaoud/marketing-data?datasetId=1046184&sortBy=voteCount
+https://www.kaggle.com/datasets/jackdaoud/marketing-data?datasetId=1046184
 
 To access the Tableau Dashboard use this link:
 
