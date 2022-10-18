@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/jackdaoud/marketing-data?datasetId=1046184
 
 To access the Tableau Dashboard use this link:
 
-https://public.tableau.com/app/profile/victor.lima7505/viz/MarketingAnalysis-FoodCompany/Dashboard?publish=yes
+https://public.tableau.com/views/MarketingAnalysis-FoodCompany/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Files:
 
