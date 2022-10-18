@@ -17,4 +17,4 @@ Dictionary: PNG file that contains metadata about the data
 
 Python file: Can be visualized on GitHub or opened in a JupiterNotebook/VisualCodeStudio
 
-DOCS File: A analyst view from the results.
+DOCX File: A analyst view from the results.
